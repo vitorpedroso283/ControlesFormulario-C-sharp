@@ -1,0 +1,10 @@
+C:\Curso\ControlesForm\Parte002\bin\Debug\Parte002.exe.config
+C:\Curso\ControlesForm\Parte002\bin\Debug\Parte002.exe
+C:\Curso\ControlesForm\Parte002\bin\Debug\Parte002.pdb
+C:\Curso\ControlesForm\Parte002\obj\Debug\Parte002.csprojAssemblyReference.cache
+C:\Curso\ControlesForm\Parte002\obj\Debug\Parte002.Form1.resources
+C:\Curso\ControlesForm\Parte002\obj\Debug\Parte002.Properties.Resources.resources
+C:\Curso\ControlesForm\Parte002\obj\Debug\Parte002.csproj.GenerateResource.cache
+C:\Curso\ControlesForm\Parte002\obj\Debug\Parte002.csproj.CoreCompileInputs.cache
+C:\Curso\ControlesForm\Parte002\obj\Debug\Parte002.exe
+C:\Curso\ControlesForm\Parte002\obj\Debug\Parte002.pdb
